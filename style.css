@@ -20,13 +20,13 @@
 
 .container{
     background-color: var(--main-bg-color);
-    height: 60vh;
+    height: 500px;
     width: 33%;
     border-radius: 10px;
 }
 
 .name-img{
-    height: 15vh;
+    height: 120px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: #b51841;
@@ -70,7 +70,7 @@
 
 .name{
     font-size: 1.3rem;
-    margin-top: 10%;
+    margin-top: 60px;
     margin-left: 5%;
     color: white;
     font-family: sans-serif;
